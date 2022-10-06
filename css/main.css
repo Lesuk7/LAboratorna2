@@ -1,6 +1,5 @@
 body{
     background-image: url("../image/background.jpg");
-    background-repeat: no-repeat;
     margin: 0;
     
 }
@@ -8,4 +7,33 @@ body{
     text-align: center;
     color: blue;
   }
+.great{
+  background-color: skyblue;
+}
+li{
+  margin-left: 20px;
+  color: white;
+}
+dl{
+  color: yellow;
+}
+dt{
+  color: whitesmoke;
+}
+dd{
+  color: lawngreen;
+}
+ul{
+  color: palevioletred;
+}
+p{
+  color: white;
+}
+.brawlers{
+  width: 60%;
+  margin-left: 450px;
+}
+.contacts{
+  color: white;
+}
 
