@@ -1,0 +1,12 @@
+body{
+    background-image: url("../image/background.jpg");
+    margin: 0;
+}
+p{
+  color: white;
+  font-size: 30px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}    
+h1{
+  color: white;
+}
